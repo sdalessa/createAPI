@@ -1,0 +1,9 @@
+//When trying to transpile, tells babel what are the presets that we are using
+
+{   //presets is an array of settings
+    "presets":
+    [
+        "env",
+        "stage-0"
+    ]
+}
